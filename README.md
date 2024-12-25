@@ -1,5 +1,5 @@
 # 💫 About Me:
-Attending Indian Institute of Information Technology Una<br>@iiitu'27 <br>Frontend Web Developer <br>Java DSA <br>C programming
+Attending Indian Institute of Information Technology Una<br>@iiitu'27 <br>MERN Stack Web Developer <br>Java DSA <br>C programming
 
 
 ## 🌐 Socials:
